@@ -1,0 +1,13 @@
+name = Rohit kumar
+email = rohit.kumarded99@gmail.com
+
+--------------instructions------------
+you have to  change:-
+In index.html line no.315 in sendEmail function you have to enter your details in username,password,to,from only.
+
+If you face any problem in sending email then you have turn on less secure app in your gmail.
+
+If then also not work go to app password in your gmail account then create new coustom password
+and replace that password with your orignal password in sendEmail function (password).
+
+
