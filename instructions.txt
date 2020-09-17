@@ -1,6 +1,8 @@
 name = Rohit kumar
 email = rohit.kumarded99@gmail.com
 
+i have checked this website multiple time this is fully responsive website
+
 --------------instructions------------
 you have to  change:-
 In index.html line no.315 in sendEmail function you have to enter your details in username,password,to,from only.
